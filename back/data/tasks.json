@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Complete the project report",
+    "description": "Finish writing the final report for the project and submit it by the end of the week.",
+    "dueDate": "2023-10-15",
+    "priority": "high",
+    "status": "in-progress"
+  },
+  {
+    "id": "2",
+    "title": "Prepare for the team meeting",
+    "description": "Gather all necessary documents and prepare a presentation for the upcoming team meeting.",
+    "dueDate": "2023-10-10",
+    "priority": "medium",
+    "status": "pending"
+  },
+  {
+    "id": "493cc3dc-e177-452f-96fd-25af89d71f7e",
+    "title": "ABC",
+    "description": "ABCJDK",
+    "status": "pending",
+    "createdAt": "2025-05-24T13:21:35.080Z",
+    "updatedAt": "2025-05-24T13:21:35.080Z",
+    "dueDate": "2025-05-29T00:00:00.000Z",
+    "priority": "low"
+  },
+  {
+    "id": "15bc4054-2ad4-4f77-9ec8-52786e39b846",
+    "title": "NEW TASK",
+    "description": "TASK DESC",
+    "status": "pending",
+    "createdAt": "2025-05-24T14:14:54.374Z",
+    "updatedAt": "2025-05-24T14:14:54.374Z",
+    "dueDate": "2025-05-28T00:00:00.000Z",
+    "priority": "low"
+  }
+]

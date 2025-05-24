@@ -1,0 +1,25 @@
+{
+    "name": "task-management-back",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Backend for the application",
+    "main": "server.js",
+    "scripts": {
+        "dev": "nodemon server.js"
+    },
+    "author": "Guyelle Ralison",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "express-validator": "^7.2.1",
+        "uuid": "^11.1.0"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.2",
+        "@types/node": "^22.15.21",
+        "@types/uuid": "^10.0.0",
+        "dotenv": "^16.5.0",
+        "nodemon": "^3.1.10"
+    }
+}
